@@ -21,3 +21,26 @@
 2018-02-14 22:17:22,260 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-02-14 22:17:22,271 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-02-14 22:17:22,279 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CodeBase\spring-boot-orm-examples\spring-boot-rest-service\src\test\resources
+2018-02-15 07:52:47,663 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ds.tree.problems:datastructure-tree-problems:0.0.1-SNAPSHOT @ C:\CodeBase\spring-boot-orm-examples\datastructure-tree-problems\pom.xml.
+2018-02-15 07:52:48,443 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /datastructure-tree-problems/src/main/java
+2018-02-15 07:52:48,451 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /datastructure-tree-problems/src/main/resources
+2018-02-15 07:52:48,469 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /datastructure-tree-problems/src/main/resources
+2018-02-15 07:52:48,487 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /datastructure-tree-problems/src/test/java
+2018-02-15 07:52:49,380 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-02-15 07:52:49,383 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-15 07:52:50,186 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ds.tree.problems:datastructure-tree-problems:0.0.1-SNAPSHOT @ C:\CodeBase\spring-boot-orm-examples\datastructure-tree-problems\pom.xml.
+2018-02-15 07:52:51,290 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /datastructure-tree-problems/src/main/java
+2018-02-15 07:52:51,327 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /datastructure-tree-problems/src/main/resources
+2018-02-15 07:52:51,342 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /datastructure-tree-problems/src/main/resources
+2018-02-15 07:52:51,384 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /datastructure-tree-problems/src/test/java
+2018-02-15 07:52:58,738 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 07:52:58,738 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-15 07:52:58,754 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-15 07:52:58,754 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 07:52:58,754 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CodeBase\spring-boot-orm-examples\datastructure-tree-problems\src\test\resources
+2018-02-15 07:52:58,823 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2018-02-15 07:53:00,041 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 07:53:00,041 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-15 07:53:00,041 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-15 07:53:00,057 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 07:53:00,057 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CodeBase\spring-boot-orm-examples\datastructure-tree-problems\src\test\resources
